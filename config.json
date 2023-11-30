@@ -45,6 +45,6 @@
 	"Wrethful Advance", "Wyrd Scythes", "Xata's Whisper"
 	],
 	"alli": {
-		">BOT ID GOES HERE>": ["Warframe Profiles", "https://maxedcarp.net/imgs/wfp.png"]
+		"<BOT ID GOES HERE>": ["Warframe Profiles", "https://maxedcarp.net/imgs/wfp.png"]
 	}
 }
