@@ -4,4 +4,4 @@
 Coded purely in Javascript with the Discord.JS V14 Node.JS module.
 
 
-Add the bot to your server here: https://discord.com/api/oauth2/authorize?client_id=1179602967498862642&permissions=137439341632&scope=bot
+Add the bot to your server here: https://maxedcarp.net/wfprofiler
