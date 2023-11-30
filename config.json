@@ -1,0 +1,50 @@
+{
+  "genToken": "<BOT TOKEN GOES HERE>",
+  "genId": "<BOT ID GOES HERE>",
+  "framelist": [
+	"Ash", "Atlas", "Banshee", "Baruuk",
+	"Caliban", "Chroma", "Citrine", "Dagath", "Ember",
+	"Equinox", "Excalibur", "Frost", "Gara",
+	"Garuda", "Gauss", "Grendel", "Gyre",
+	"Harrow", "Hildryn", "Hydroid", "Inaros",
+	"Ivara", "Khora", "Kullervo", "Lavos",
+	"Limbo", "Loki", "Mag", "Mesa",
+	"Mirage", "Nekros", "Nezha", "Nidus",
+	"Nova", "Nyx", "Oberon", "Octavia", 
+	"Protea", "Qorvex", "Revenant", "Rhino",
+	"Saryn", "Sevagoth", "Styanax", "Titania",
+	"Trinity", "Valkyr", "Vauban", "Volt",
+	"Voruna", "Wisp", "Wukong", "Xaku",
+	"Yareli","Zephyr",
+	"Ash Prime", "Atlas Prime", "Banshee Prime", "Baruuk Prime",
+	"Chroma Prime", "Ember", "Equinox", "Excalibur Prime",
+	"Excalibur Umbra", "Frost Prime", "Gara Prime", "Garuda Prime",
+	"Gauss Prime", "Grendel Prime", "Harrow Prime", "Hildryn Prime",
+	"Hydroid Prime", "Inaros Prime", "Ivara Prime", "Khora Prime",
+	"Limbo Prime", "Loki Prime", "Mag Prime", "Mesa Prime",
+	"Mirage Prime", "Nekros Prime", "Nezha Prime", "Nidus Prime",
+	"Nova Prime", "Nyx Prime", "Oberon Prime", "Octavia Prime",
+	"Revenant Prime", "Rhino Prime", "Saryn Prime", "Titania Prime",
+	"Trinity Prime", "Valkyr Prime", "Vauban Prime", "Volt Prime",
+	"Wisp Prime", "Wukong Prime", "Zephyr Prime"
+  ],
+  "sublist": [
+	"Airburst", "Aquablades", "Banish", "Blood Altar",
+	"Breach Surge", "Coil Horizon", "Condemn",
+	"Decoy", "Defy", "Desiccation", "Dispensary",
+	"Eclipse", "Elemental Ward", "Ensnare", "Fire Blast",
+	"Fire Walker", "Fractured Blast", "Gloom", "Ice Wave",
+	"Larva", "Lull", "Lycath's Hunt", "Mind Control",
+	"Molt", "Nourish", "Null Star", "Petrify",
+	"Pillage", "Pull", "Quiver", "Radial Blind",
+	"Reave", "Resonator", "Rest & Rage", "Roar",
+	"Sentient Wrath", "Shock", "Shooting Gallery", "Shuriken",
+	"Silence", "Smite", "Spectrorage", "Spellbind",
+	"Tempest Barrage", "Terrify", "Tesla Nervos", "Tharros Strike",
+	"Thermal Sunder", "Vial Rush", "Warcry", "Well of Life",
+	"Wrethful Advance", "Wyrd Scythes", "Xata's Whisper"
+	],
+	"alli": {
+		">BOT ID GOES HERE>": ["Warframe Profiles", "https://maxedcarp.net/imgs/wfp.png"]
+	}
+}
